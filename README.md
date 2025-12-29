@@ -3,7 +3,7 @@
 
 AI ReviewShorts is a powerful AI tool that automatically creates high-quality short-form review videos optimized for platforms like YouTube Shorts, TikTok, Instagram Reels, and Facebook Reels — all without filming, editing, or a camera.
 
-!([./path/to/image.png](https://github.com/writm/ertfdfsff/blob/main/AI-ReviewShorts-sample-1.jpg))
+![screen](https://github.com/writm/ertfdfsff/blob/main/AI-ReviewShorts-sample-1.jpg)
 
 Whether you're an affiliate marketer, content creator, or agency, this system lets you turn product links into rank-ready, buyer-intent video reviews in minutes.
 
