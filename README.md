@@ -74,8 +74,4 @@ AI ReviewShorts is not a “get-rich-quick button” — results depend on strat
 
 📌 Useful Links
 
-🔹 Main offer: https://www.aireviewshorts.com/specialdeal
-
-🔹 Pro version: https://www.aireviewshorts.com/pro
-
 🔹 Lifetime license on Kwork: https://kwork.com/software/47636902/ai-reviewshorts-create-viral-shorts-with-ai-lifetime-license
